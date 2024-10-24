@@ -1,0 +1,26 @@
+.food_type {
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+    &_item {
+
+        &-img {
+            width: 90px;
+        }
+ 
+
+        &-title {
+            color: #403C39;
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        &-description {
+            color: $grey;
+            font-weight: 300;
+        }
+    }
+}
