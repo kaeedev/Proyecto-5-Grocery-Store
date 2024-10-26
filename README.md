@@ -36,7 +36,7 @@ https://kaeedev.github.io/Proyecto-5-Grocery-Store/
 
 1. Clona este repositorio:
    ```bash
-   https://github.com/kaeedev/Projects-Django.git
+   https://github.com/kaeedev/Proyecto-5-Grocery-Store.git
 
 2. No requiere de instalación. Con la extensión live server o similares de VSCODE podrás ver el proyecto de manera local
 
@@ -86,7 +86,7 @@ https://kaeedev.github.io/Proyecto-5-Grocery-Store/
 
 - Clone this repository:
   ```bash
-  git clone https://github.com/kaeedev/Projects-Django.git
+  https://github.com/kaeedev/Proyecto-5-Grocery-Store.git
   
 - No installation is required. You can use the Live Server extension or similar in VS Code to view the project locally.
   
